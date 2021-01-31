@@ -1,8 +1,10 @@
 package assignments;
 
-public class NPrime {
+public class NPrime 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		for(int i=1;i<=100;i++)
 		{
 			int count=0;
